@@ -6,6 +6,7 @@ namespace Strategy
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello World!");
         }
     }
